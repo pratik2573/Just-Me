@@ -5,7 +5,7 @@ let person1 = {
     img: "/images/person_1.jpg"
 }
 let person2 = {
-    name: "Coby Oliver",
+    name: "Coby Oliver J",
     img: "/images/person_2.jpg"
 }
 let person3 = {
